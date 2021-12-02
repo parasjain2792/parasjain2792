@@ -6,10 +6,10 @@
 Something About Myself:
 
 - 🔭 I’m currently working on a Web Dev Project
-- 🌱 I’m currently learning more about Next JS
+- 🌱 I’m currently learning more about DSA
 - 👯 I’m looking to collaborate with other Full Stack Developers
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play Cricket 🏏
+- ⚡ Fun fact: I love to play Cricket 🏏 
 
 ### Technical Skills:
 
